@@ -1,0 +1,5 @@
+hub OSTERWALDER LAB - Cell-type specific TFBMs - TOBIAS 2020
+shortLabel TFBMs TOBIAS 2020 
+longLabel TFBMs (JASPAR 2024 PWMs) positively bounded by TFs (Footprinting analysis) - Cell-type specific (21 Clusters)
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch

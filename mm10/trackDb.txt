@@ -1,0 +1,12 @@
+track EC_Cluster_Specific_TFBMs_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213514e86be4b8011c4d/display?to_ext=bigbed
+shortLabel EC : TOBIAS TFBMs
+longLabel EC : Cluster specific TFBMs - TOBIAS Footprinting analysis - Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility dense
+type bigBed 9 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
