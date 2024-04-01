@@ -1,7 +1,7 @@
-track EC_Cluster_Specific_TFBMs_TOBIAS_Footprinting_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b679bd0f691a44be/display?to_ext=bigbed
+track EC_TFBMs_TOBIAS_Footprinting_Hand2_loci
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f3fbe72be3011ee3/display?to_ext=bigbed
 shortLabel EC : TOBIAS TFBMs
-longLabel EC : Cluster specific TFBMs - TOBIAS Footprinting analysis - Hand2 loci
+longLabel EC : TFBMs - TOBIAS Footprinting analysis - Hand2 loci
 itemRgb on
 useScore 1
 configurable on
