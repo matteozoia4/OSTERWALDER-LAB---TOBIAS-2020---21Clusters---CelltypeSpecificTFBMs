@@ -10,3 +10,16 @@ type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
+
+track EndMT_TFBMs_TOBIAS_Footprinting_Hand2_loci
+bigDataUrl 
+shortLabel EndMT : TOBIAS TFBMs
+longLabel EndMT : TFBMs - TOBIAS Footprinting analysis - Hand2 loci
+itemRgb on
+useScore 1
+configurable on
+visibility dense
+type bigBed 9 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
