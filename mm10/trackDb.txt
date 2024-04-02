@@ -12,7 +12,7 @@ type bigBed 9 .
     filterText.name **
 
 track EndMT_TFBMs_TOBIAS_Footprinting_Hand2_loci
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358705d13c22c59757/display?to_ext=bigbed
 shortLabel EndMT : TOBIAS TFBMs
 longLabel EndMT : TFBMs - TOBIAS Footprinting analysis - Hand2 loci
 itemRgb on
