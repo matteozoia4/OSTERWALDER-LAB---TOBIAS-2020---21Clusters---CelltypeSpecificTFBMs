@@ -1,5 +1,5 @@
 track EC_TFBMs_TOBIAS_Footprinting
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356f8536fc08555acd/display?to_ext=bigbed
 shortLabel EC acc. regions : TOBIAS TFBMs
 longLabel Genomwide EC accessible regions - TOBIAS bounded TFBMs
 itemRgb on
@@ -12,7 +12,7 @@ type bigBed 9 .
     filterText.name **
 
 track EC_DE_TFBMs_TOBIAS_Footprinting
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b613772682b025ab/display?to_ext=bigbed
 shortLabel EC diff. acc. regions : TOBIAS TFBMs
 longLabel Genomwide EC differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
@@ -25,7 +25,7 @@ type bigBed 9 .
     filterText.name **
 
 track EndMT_TFBMs_TOBIAS_Footprinting
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213509b6a3fb4399cc1d/display?to_ext=bigbed
 shortLabel EndMT acc. regions : TOBIAS TFBMs
 longLabel Genomwide EndMT accessible regions - TOBIAS bounded TFBMs
 itemRgb on
@@ -38,7 +38,7 @@ type bigBed 9 .
     filterText.name **
 
 track EndMT_DE_TFBMs_TOBIAS_Footprinting
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d34d16c2fd466b5b/display?to_ext=bigbed
 shortLabel EndMT diff. acc. regions : TOBIAS TFBMs
 longLabel Genomwide EndMT differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
@@ -51,7 +51,7 @@ type bigBed 9 .
     filterText.name **
 
 track SV_TFBMs_TOBIAS_Footprinting
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356feef981a7e0d2bc/display?to_ext=bigbed
 shortLabel EndMT acc. regions : TOBIAS TFBMs
 longLabel Genomwide SV accessible regions - TOBIAS bounded TFBMs
 itemRgb on
@@ -64,7 +64,7 @@ type bigBed 9 .
     filterText.name **
 
 track SV_DE_TFBMs_TOBIAS_Footprinting
-bigDataUrl 
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135919de7d29e44276a/display?to_ext=bigbed
 shortLabel EndMT diff. acc. regions : TOBIAS TFBMs
 longLabel Genomwide SV differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
