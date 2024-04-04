@@ -1,7 +1,7 @@
 track EC_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356f8536fc08555acd/display?to_ext=bigbed
 shortLabel EC acc. regions : TOBIAS TFBMs
-longLabel Genomwide EC accessible regions - TOBIAS bounded TFBMs
+longLabel Genomewide EC accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
@@ -14,7 +14,7 @@ type bigBed 9 .
 track EC_DE_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b613772682b025ab/display?to_ext=bigbed
 shortLabel EC diff. acc. regions : TOBIAS TFBMs
-longLabel Genomwide EC differentially accessible regions - TOBIAS bounded TFBMs
+longLabel Genomewide EC differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
@@ -27,7 +27,7 @@ type bigBed 9 .
 track EndMT_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213509b6a3fb4399cc1d/display?to_ext=bigbed
 shortLabel EndMT acc. regions : TOBIAS TFBMs
-longLabel Genomwide EndMT accessible regions - TOBIAS bounded TFBMs
+longLabel Genomewide EndMT accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
@@ -40,7 +40,7 @@ type bigBed 9 .
 track EndMT_DE_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d34d16c2fd466b5b/display?to_ext=bigbed
 shortLabel EndMT diff. acc. regions : TOBIAS TFBMs
-longLabel Genomwide EndMT differentially accessible regions - TOBIAS bounded TFBMs
+longLabel Genomewide EndMT differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
@@ -53,7 +53,7 @@ type bigBed 9 .
 track SV_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356feef981a7e0d2bc/display?to_ext=bigbed
 shortLabel SV acc. regions : TOBIAS TFBMs
-longLabel Genomwide SV accessible regions - TOBIAS bounded TFBMs
+longLabel Genomewide SV accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
@@ -66,7 +66,7 @@ type bigBed 9 .
 track SV_DE_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135919de7d29e44276a/display?to_ext=bigbed
 shortLabel SV diff. acc. regions : TOBIAS TFBMs
-longLabel Genomwide SV differentially accessible regions - TOBIAS bounded TFBMs
+longLabel Genomewide SV differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
