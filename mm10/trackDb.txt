@@ -1,7 +1,7 @@
-track EC_TFBMs_TOBIAS_Footprinting_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f3fbe72be3011ee3/display?to_ext=bigbed
-shortLabel EC : TOBIAS TFBMs
-longLabel EC : TFBMs - TOBIAS Footprinting analysis - Hand2 loci
+track EC_TFBMs_TOBIAS_Footprinting
+bigDataUrl 
+shortLabel EC acc. regions : TOBIAS TFBMs
+longLabel Genomwide EC accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
@@ -11,10 +11,10 @@ type bigBed 9 .
     filterLimits.score 0:1000
     filterText.name **
 
-track EndMT_TFBMs_TOBIAS_Footprinting_Hand2_loci
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358705d13c22c59757/display?to_ext=bigbed
-shortLabel EndMT : TOBIAS TFBMs
-longLabel EndMT : TFBMs - TOBIAS Footprinting analysis - Hand2 loci
+track EC_DE_TFBMs_TOBIAS_Footprinting
+bigDataUrl 
+shortLabel EC diff. acc. regions : TOBIAS TFBMs
+longLabel Genomwide EC differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
 configurable on
@@ -23,3 +23,56 @@ type bigBed 9 .
     filter.score 0
     filterLimits.score 0:1000
     filterText.name **
+
+track EndMT_TFBMs_TOBIAS_Footprinting
+bigDataUrl 
+shortLabel EndMT acc. regions : TOBIAS TFBMs
+longLabel Genomwide EndMT accessible regions - TOBIAS bounded TFBMs
+itemRgb on
+useScore 1
+configurable on
+visibility dense
+type bigBed 9 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track EndMT_DE_TFBMs_TOBIAS_Footprinting
+bigDataUrl 
+shortLabel EndMT diff. acc. regions : TOBIAS TFBMs
+longLabel Genomwide EndMT differentially accessible regions - TOBIAS bounded TFBMs
+itemRgb on
+useScore 1
+configurable on
+visibility dense
+type bigBed 9 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track SV_TFBMs_TOBIAS_Footprinting
+bigDataUrl 
+shortLabel EndMT acc. regions : TOBIAS TFBMs
+longLabel Genomwide SV accessible regions - TOBIAS bounded TFBMs
+itemRgb on
+useScore 1
+configurable on
+visibility dense
+type bigBed 9 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
+track SV_DE_TFBMs_TOBIAS_Footprinting
+bigDataUrl 
+shortLabel EndMT diff. acc. regions : TOBIAS TFBMs
+longLabel Genomwide SV differentially accessible regions - TOBIAS bounded TFBMs
+itemRgb on
+useScore 1
+configurable on
+visibility dense
+type bigBed 9 .
+    filter.score 0
+    filterLimits.score 0:1000
+    filterText.name **
+
