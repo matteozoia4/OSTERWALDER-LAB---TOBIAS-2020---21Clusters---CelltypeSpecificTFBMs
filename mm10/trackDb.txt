@@ -52,7 +52,7 @@ type bigBed 9 .
 
 track SV_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356feef981a7e0d2bc/display?to_ext=bigbed
-shortLabel EndMT acc. regions : TOBIAS TFBMs
+shortLabel SV acc. regions : TOBIAS TFBMs
 longLabel Genomwide SV accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
@@ -65,7 +65,7 @@ type bigBed 9 .
 
 track SV_DE_TFBMs_TOBIAS_Footprinting
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135919de7d29e44276a/display?to_ext=bigbed
-shortLabel EndMT diff. acc. regions : TOBIAS TFBMs
+shortLabel SV diff. acc. regions : TOBIAS TFBMs
 longLabel Genomwide SV differentially accessible regions - TOBIAS bounded TFBMs
 itemRgb on
 useScore 1
